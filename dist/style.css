@@ -10,8 +10,8 @@ body {
 }
 
 #game-container {
-    width: 600px;
-    height: 200px;
+    width: 900px;
+    height: 400px;
     border: 1px solid #000;
     position: relative;
     overflow: hidden; /* 隱藏超出範圍的元素 */
